@@ -108,14 +108,7 @@
       "name": "Programming",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "programming", "coding","developement","dev"
-      ]
-    },
-    {
-      "name": "Reading",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "reading", "books"
+        "OS", "Networks","Developement","AI models"
       ]
     }
   ],
