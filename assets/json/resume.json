@@ -105,10 +105,17 @@
   ],
   "interests": [
     {
-      "name": "Programming",
+      "name": "Electronics",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "OS", "Networks","Developement","AI models"
+        "Microcontrollers"
+      ]
+    },
+    {
+      "name": "Low level programming",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "OS", "Networks"
       ]
     }
   ],
