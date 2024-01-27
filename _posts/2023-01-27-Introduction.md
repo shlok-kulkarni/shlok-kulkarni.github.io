@@ -21,7 +21,7 @@ This blog is an attempt to document my progress in my educational career. I am c
 I also have a desire to contribute to the cutting edge of datascience and machine learning and am currently working on a research paper on Multimodal Sarcasm detection, the process of which I will partially document here in the coming weeks and months. I am also looking at further oppurtunities to explore and contribute to this field of study.
 
 I am programmer at heart so, I will leave you with some code
-
+<!-- 
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
@@ -30,4 +30,4 @@ int main(){
     cout<<"Hello world"<<endl;
     return 0;
 }
-```
+``` -->
