@@ -16,3 +16,4 @@ categories: personal-posts
     Look its me
 </div>
 
+This blog is an attempt to document my 
