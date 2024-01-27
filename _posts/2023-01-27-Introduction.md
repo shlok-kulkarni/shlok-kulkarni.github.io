@@ -16,4 +16,6 @@ categories: personal-posts
     Look its me
 </div>
 
-This blog is an attempt to document my 
+This blog is an attempt to document my progress in my educational career. I am currently in my 3rd year of Btech in Computer Science from Vellore Institute of Technology, Vellore. I am interested in all things technology, not just limited to my field of Computer Science, including, electronics, mechanics, manufacturing etc.  
+
+I also have a desire to contribute to the cutting edge of datascience and machine learning and am currently working on a research paper on Multimodal Sarcasm detection. I am also looking at further oppurtunities to explore and contribute to this field of study.
