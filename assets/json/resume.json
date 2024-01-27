@@ -150,14 +150,16 @@
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker"
-      "icon":""
-    },
-    {
       "language": "English",
       "fluency": "Fluent"
-      "icon":""
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Marathi",
+      "fluency" : "Native speaker"
     }
   ],
   "interests": [
