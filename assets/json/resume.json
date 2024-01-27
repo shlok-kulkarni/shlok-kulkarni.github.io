@@ -52,7 +52,7 @@
       "location": "Vellore, India",
       "url": "https://vit.ac.in/",
       "area": "Computer Science",
-      "studyType": "Btech",
+      "studyType": "Btech, Computer Science",
       "startDate": "07-09-2021",
       "endDate": "",
       "score": "8.58",
@@ -75,47 +75,19 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
+      "name": "Generative AI with Large Language Models",
+      "date": "2023-27-08",
+      "issuer": "Coursera",
+      "url": "https://www.coursera.org/account/accomplishments/verify/LP7796FJYNZN",
       "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
+      "name": "Machine Learning Specialisation",
+      "date": "2023-21-06",
       "issuer": "Stanford University",
-      "url": "https://example.com",
+      "url": "https://coursera.org/share/38913d418b80e30c6a138af6a0385253",
       "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
-    }
+    }   
   ],
   "publications": [
     {
