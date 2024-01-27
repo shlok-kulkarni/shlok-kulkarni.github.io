@@ -1,11 +1,11 @@
 ---
 layout: post
-title: a post with jupyter notebook
-date: 2023-07-04 08:57:00-0400
-description: an example of a blog post with jupyter notebook
-tags: formatting jupyter
-categories: sample-posts
-giscus_comments: true
+title: Making a micrograd clone
+date: 2024-01-27 14:27:00-0400
+description: A recreation of the Micrograd repo by Andrej Karpathy
+tags: backprop, Micrograd
+categories: self-doc
+giscus_comments: false  
 related_posts: false
 ---
 
