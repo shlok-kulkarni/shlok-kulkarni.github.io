@@ -10,9 +10,9 @@ profile:
   image_circular: false # crops the image to make it circular
   rotate : 90
   more_info: >
-    <p>Men's Hostel, VIT University</p>
-    <p></p>
-    <p>Vellore, Tamil Nadu 632 014</p>
+    <p>Men's Hostel</p>
+    <p> VIT University, Vellore</p>
+    <p>Tamil Nadu 632 014</p>
     
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
