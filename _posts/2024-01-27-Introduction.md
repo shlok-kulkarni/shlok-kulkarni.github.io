@@ -4,7 +4,7 @@ title:  Welcome to my blog
 date:   2024-01-27 16:40:16
 description:
 tags: introduction
-categories: personal-posts
+categories: sample-posts
 ---
 
 <div class="row mt-3">
