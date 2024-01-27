@@ -23,29 +23,20 @@
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
+      "name": "ElasticRun",
+      "position": "Data Science Intern",
+      "url": "https://elastic.run",
+      "startDate": "2023-09-07",
+      "endDate": "2023-12-06",
+      "summary": "I created a boilerplate for RAG based application and then proceeded to work on two usecases - Policy document querying, Sql generation from natural language both using GPT 3.5",
       "highlights": [
-        "Relativity"
+        "RAG",
+        "LLMs",
+        "LangChain",
+        "Vector Database"
       ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "position": "Lead Organizer",
-      "url": "https://example.com",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": [
-        "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.","Men of the year 2014 by Time magazine"
-      ]
-    }],
   "education": [
     {
       "institution": "VIT University, Vellore",
@@ -53,7 +44,7 @@
       "url": "https://vit.ac.in/",
       "area": "Computer Science",
       "studyType": "Btech, Computer Science",
-      "startDate": "07-09-2021",
+      "startDate": "2021-09-07",
       "endDate": "",
       "score": "8.58",
       "courses": [
@@ -64,26 +55,17 @@
       ]
     }
   ],
-  "awards": [
-    {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
   "certificates": [
     {
       "name": "Generative AI with Large Language Models",
-      "date": "2023-27-08",
+      "date": "2023-08-27",
       "issuer": "Coursera",
       "url": "https://www.coursera.org/account/accomplishments/verify/LP7796FJYNZN",
       "icon": "fa-solid fa-location-dot"
     },
     {
       "name": "Machine Learning Specialisation",
-      "date": "2023-21-06",
+      "date": "2023-06-21",
       "issuer": "Coursera",
       "url": "https://coursera.org/share/38913d418b80e30c6a138af6a0385253",
       "icon": "fa-solid fa-tag"
@@ -91,11 +73,19 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Machine learning",
+      "level": "Intermediate",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics","Quantum Computing","Quantum Information","Quantum Cryptography","Quantum Communication","Quantum Teleportation"
+        "Python","Self attention","Multi-layer perceptrons","Neural networks"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Intermediate",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "C","CPP","Python","Java"
       ]
     }
   ],
@@ -143,15 +133,17 @@
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+      "name": "Multimodal sarcasm detection",
+      "summary": "Ongoing research to create a better model to detect sarcasm using mulitple modalities like video, audio and text",
       "highlights": [
-        "Quantum Teleportation",
-        "Quantum Cryptography"
+        "NLP",
+        "AI",
+        "LLMs",
+        "Sentiment analysis"
       ],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "startDate": "2023-01-01",
+      "endDate": "",
+      "url": "https://github.com/Sckarge/Multimodal_sarcasm_detection"
     }
   ]
 }
