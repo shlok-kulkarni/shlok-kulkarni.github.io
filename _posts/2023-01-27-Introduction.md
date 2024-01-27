@@ -1,10 +1,11 @@
 ---
 layout: post
-title:  Introduction
+title:  Welcome to my blog
 date:   2023-01-27 16:40:16
-description: march & april, looking forward to summer
+description:
 tags: formatting links
 categories: personal-posts
 ---
 
-Hello
+![It's me](../assets/img/blog-photos/Itsme.jpeg)
+
