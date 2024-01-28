@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://Sckarge.github.io/sitemap.xml
