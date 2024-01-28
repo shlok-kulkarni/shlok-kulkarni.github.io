@@ -144,6 +144,18 @@
       "startDate": "2023-08-07",
       "endDate": "2023-10-10",
       "url": "aida.elasticrun.in"
+    },
+    {
+      "name": "RAG Model Performance Auto-Evaluation ",
+      "summary": "Created a script to evaluate the performance of the RAG model using another Language Model like GPT-4 using metrics defined in plaintext.",
+      "highlights": [
+        "Auto-eval",
+        "LLM",
+        "Metrics"
+      ],
+      "startDate": "2023-08-07",
+      "endDate": "2023-10-10",
+      "url": ""
     }
   ]
 }
