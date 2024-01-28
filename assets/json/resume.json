@@ -146,6 +146,18 @@
       "url": "aida.elasticrun.in"
     },
     {
+      "name": "SQL Generation Workflow",
+      "summary": "Engineered a workflow for SQL generation by cataloging the company’s database and past queries using RAG.",
+      "highlights": [
+        "SQL",
+        "LLM",
+        "RAG"
+      ],
+      "startDate": "2023-10-10",
+      "endDate": "2023-06-11",
+      "url": ""
+    },  
+    {
       "name": "RAG Model Performance Auto-Evaluation ",
       "summary": "Created a script to evaluate the performance of the RAG model using another Language Model like GPT-4 using metrics defined in plaintext.",
       "highlights": [
@@ -153,8 +165,8 @@
         "LLM",
         "Metrics"
       ],
-      "startDate": "2023-08-07",
-      "endDate": "2023-10-10",
+      "startDate": "2023-11-07",
+      "endDate": "2023-12-06",
       "url": ""
     }
   ]
