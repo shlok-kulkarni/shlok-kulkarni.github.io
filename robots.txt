@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://Sckarge.github.io/sitemap.xml
+Sitemap: https://shlok-kulkarni.github.io/sitemap.xml
