@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://vit.ac.in/'>VIT Vellore</a>. Btech student.
+subtitle: <a href='https://vit.ac.in/'>VIT Vellore</a>. Student researcher. Final year B.Tech student.
 
 profile:
   align: right
@@ -14,11 +14,11 @@ profile:
     
 news: false  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
-selected_papers: false # includes a list of papers marked as "selected={true}"
+selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am pre-final year Btech student at [VIT Vellore](https://vit.ac.in/) studying Computer Science. Passionate about AI and machine learning and tech as a whole and I hope to contribute to the cutting-edge of these technologies.
+I am final year Btech student at [VIT Vellore](https://vit.ac.in/) studying Computer Science. Passionate about AI and machine learning and tech as a whole and I hope to contribute to the cutting-edge of these technologies.
 
 Open to new oppurtunities in these fields and meeting new people and learning from them.
 
